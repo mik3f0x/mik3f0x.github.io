@@ -142,6 +142,15 @@ h1 {
         margin: 0;
         width: 100vw;
     }
+
+    nav {
+        justify-content: space-around;
+    }
+
+    a {
+        padding: 15px;
+        font-size: 15px;
+    }
 }
 
 @media screen and (max-width: 350px) {
