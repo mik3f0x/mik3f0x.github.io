@@ -154,6 +154,10 @@ h1 {
     font-size: 18px;
 }
 
+.ai-img a {
+    padding: 0;
+}
+
 .ai-img img {
     height: 100%;
     width: 100%;
