@@ -106,7 +106,6 @@ h1 {
 }
 
 .ai-img {
-    border: solid 5px greenyellow;
     margin: 10px;
 }
 
@@ -153,6 +152,16 @@ h1 {
     padding: 12px;
     text-decoration: underline;
     font-size: 18px;
+}
+
+.ai-img img {
+    height: 100%;
+    width: 100%;
+}
+
+.ai-img:hover {
+    -webkit-transform:scale(2);
+    transform:scale(2);
 }
 
 
