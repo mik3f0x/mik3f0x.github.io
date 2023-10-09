@@ -8,7 +8,6 @@ body {
     background-color: black;
     color: white;
     width: 100vw;
-    /* position: relative; */
 }
   
 html {
@@ -38,12 +37,6 @@ a {
     font-size: 25px;
     font-weight: bold;
 }
-
-/* p {
-    color: white;
-    font-size: 20px;
-    font-weight: bold;
-} */
 
 .outer {
     padding-left: 8%;
@@ -221,6 +214,10 @@ h1 {
         padding: 15px;
         font-size: 15px;
     }
+
+    .ai-img:hover {
+        -webkit-transform: none;
+    }    
 }
 
 @media screen and (max-width: 350px) {
