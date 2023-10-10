@@ -90,6 +90,18 @@ h1 {
     background-color: magenta;
 }
 
+.project {
+    padding: 25px 0;
+}
+
+.project-link {
+    color: dodgerblue;
+    font-size: 1.5em;
+    font-weight: bolder;
+    padding-left: 0;
+    text-decoration: underline;
+}
+
 #ai-img-list {
     display: flex;
     flex-flow: row wrap;
@@ -112,8 +124,13 @@ h1 {
     width: 180px;
 }
 
-#home, #coding {
+#home {
     height: 300px;
+    max-width: 1000px;
+}
+
+#coding {
+    height: auto;
     max-width: 1000px;
 }
 
