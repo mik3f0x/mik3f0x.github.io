@@ -102,6 +102,11 @@ h1 {
     text-decoration: underline;
 }
 
+.project-image {
+    height: 280px;
+    width: 420px;
+}
+
 #ai-img-list {
     display: flex;
     flex-flow: row wrap;
