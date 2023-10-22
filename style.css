@@ -107,6 +107,10 @@ h1 {
     width: 420px;
 }
 
+#tune-sleuth-image {
+    width: 503px;
+}
+
 #ai-img-list {
     display: flex;
     flex-flow: row wrap;
