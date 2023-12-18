@@ -111,6 +111,10 @@ h1 {
     width: 503px;
 }
 
+#bestbooks-image {
+    object-fit: cover;
+}
+
 #ai-img-list {
     display: flex;
     flex-flow: row wrap;
